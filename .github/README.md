@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # My Stats☠︎︎
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Akairnex&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=kairnex&show_icons=true&theme=radical)
 
 # Contact ☠︎︎
 <a href="https://t.me/kairnex"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
