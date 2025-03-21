@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kairnex#version3"/>
   </a>
 </p>
-<a href="https://github.com/kairnex"><img alt="Abir's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=Akshayxt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/kairnex"><img alt="Abir's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=Kairnex&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
